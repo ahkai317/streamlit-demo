@@ -1,0 +1,12 @@
+[server]
+enableCORS = false
+
+[logger]
+level = "warning"
+
+[theme]
+primaryColor = "#44C7B5"
+backgroundColor = "#292D3E"
+secondaryBackgroundColor = "#1B1E2B"
+textColor = "#fffff"
+font = "sans serif"
